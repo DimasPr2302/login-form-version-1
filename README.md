@@ -22,3 +22,6 @@ Hi! This is one of few my exercise. This is form login example. This form can be
 - Go to the new folder path that have been created before
 - Then on your cmd, type `git clone <repo URL>`
 - Now all files in this repository ready to use on your local computer
+
+## You can also view the design on my Figma link :
+[Login - Register Form Figma](https://www.figma.com/file/q37lR0I1NQlcvIolcj88Yq/Design-Register-Page-Form?type=design&t=tZf09qKidD5eAuCV-6)
